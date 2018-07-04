@@ -1,0 +1,11 @@
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\bin\Debug\netcoreapp2.0\Log4netDemo.Web.deps.json
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\bin\Debug\netcoreapp2.0\Log4netDemo.Web.runtimeconfig.json
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\bin\Debug\netcoreapp2.0\Log4netDemo.Web.runtimeconfig.dev.json
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\bin\Debug\netcoreapp2.0\Log4netDemo.Web.dll
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\obj\Debug\netcoreapp2.0\Log4netDemo.Web.csprojAssemblyReference.cache
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\obj\Debug\netcoreapp2.0\Log4netDemo.Web.csproj.CoreCompileInputs.cache
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\obj\Debug\netcoreapp2.0\Log4netDemo.Web.AssemblyInfoInputs.cache
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\obj\Debug\netcoreapp2.0\Log4netDemo.Web.AssemblyInfo.cs
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\bin\Debug\netcoreapp2.0\Log4netDemo.Web.pdb
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\obj\Debug\netcoreapp2.0\Log4netDemo.Web.dll
+C:\hankk\Log4netDIDemo\Log4netDemo.Web\obj\Debug\netcoreapp2.0\Log4netDemo.Web.pdb
